@@ -4,4 +4,4 @@ writing a book for laughs
 
 
 writing a silly book to teach git
-we are going for learn gitaaa
+we are going for learn github
